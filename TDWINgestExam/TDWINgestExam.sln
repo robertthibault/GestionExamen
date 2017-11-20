@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TDWINgestExam", "TDWINgestExam\TDWINgestExam.vbproj", "{6C286581-FB47-451C-81BD-FD4512BC7170}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TDdllge", "TDdllge\TDdllge.vbproj", "{E9B32723-BC33-45E0-8381-64505573BA18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C286581-FB47-451C-81BD-FD4512BC7170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C286581-FB47-451C-81BD-FD4512BC7170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C286581-FB47-451C-81BD-FD4512BC7170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C286581-FB47-451C-81BD-FD4512BC7170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9B32723-BC33-45E0-8381-64505573BA18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9B32723-BC33-45E0-8381-64505573BA18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9B32723-BC33-45E0-8381-64505573BA18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9B32723-BC33-45E0-8381-64505573BA18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,181 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TDdllge
+</name>
+</assembly>
+<members>
+<member name="T:TDGE.My.Resources.Resources">
+<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+<member name="P:TDGE.My.Resources.Resources.ResourceManager">
+<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member>
+<member name="P:TDGE.My.Resources.Resources.Culture">
+<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member>
+<member name="M:TDGE.Etudiant.#ctor(System.String,System.String,System.String,System.Boolean)">
+ <summary>
+ Constructeur
+ </summary>
+ <param name="TheId">Code de l'etudiant</param>
+ <param name="TheNom">Nom d l'etudiant</param>
+ <param name="ThePrenom">Prenom de l'etudiant</param>
+ <remarks></remarks>
+</member>
+<member name="P:TDGE.Etudiant.MoyennePoint">
+ <summary>
+ Calcule la moyenne de point
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:TDGE.Etudiant.Moyenne">
+ <summary>
+ Calcule la moyenne d'un élève
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:TDGE.Etudiant.totalPoints">
+ <summary>
+ Calcule le nombre total de point pour un élève
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:TDGE.Etudiant.EstRecut">
+ <summary>
+ Permet de savoir si un élève a eu son BTS ou non
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:TDGE.Etudiant.ToString">
+ <summary>
+ Permet d'afficher correctement le nom puis prénom puis le sexe de chaque élève
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:TDGE.Etudiants.Chercher(System.String)">
+ <summary>
+ Cherche l'étudiant dont le code est donné en paramètre
+ </summary>
+ <param name="UnIdEtudiant">Code de l'étudiant recherché</param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:TDGE.FournisseurSGBD.#ctor">
+ <summary>
+ Chemin de la BDD
+ </summary>
+</member>
+<member name="P:TDGE.FournisseurSGBD.Fichier">
+ <summary>
+ si la connection ne se fait pas ou essaye un nouveau chemin
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:TDGE.FournisseurSGBD.OuvrirConnexion">
+ <summary>
+ Ouvrir la connection si elle est fermée
+ </summary>
+</member>
+<member name="M:TDGE.FournisseurSGBD.ReaderAllMatieres">
+ <summary>
+ Renvoie les matières
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:TDGE.FournisseurSGBD.ReaderAllEtudiant">
+ <summary>
+ Renvoie les Etudiants
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:TDGE.FournisseurSGBD.ReadAllNotes">
+ <summary>
+ Renvoie les notes
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:TDGE.FournisseurSGBD.FaireCnxChange(System.Object,System.Data.StateChangeEventArgs)">
+ <summary>
+ Exécutée quand l'état de la connexion o_Cnx change
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:TDGE.Matieres.Chercher(System.String)">
+ <summary>
+ Cherche le devoir dont le code est donné en paramètre
+ </summary>
+ <param name="unCodeMatiere">Code du devoir recherché</param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:TDGE.Matieres.TotalCoefficients">
+ <summary>
+ Calcule la somme des coefficients des matières
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:TDGE.SI.DonneMoisLeSI">
+ <summary>
+ Renvoie le singleton
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:TDGE.SI.FaireDesQueConnecte(TDGE.FournisseurSGBD)">
+ <summary>
+ Remplit la liste des matières dès que l'on est connecté à la base de données
+ </summary>
+ <param name="sender"></param>
+ <remarks></remarks>
+</member>
+<member name="M:TDGE.SI.ChargementMatieres">
+ <summary>
+ Charge les matieres
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:TDGE.SI.ChargementEtudiants">
+ <summary>
+ Charge les Etudiants
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:TDGE.SI.ChargementNotes">
+ <summary>
+ Charge les notes
+ </summary>
+</member>
+<member name="P:TDGE.SI.Matieres">
+ <summary>
+ Renvoie la liste des matières
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:TDGE.SI.Etudiants">
+ <summary>
+ Renvoie la liste des étudiants
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

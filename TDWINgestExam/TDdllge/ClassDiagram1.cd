@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TDGE.Matiere">
+    <Position X="1" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAAAAABAASAAEAACgAAAAAEAIAAAAAAAAAAAAgQA=</HashCode>
+      <FileName>Matiere.vb</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="o_SesNotes" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="TDGE.Note">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAgABAgAAAAAAABAAAAAQAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Note.vb</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="o_Matiere" />
+      <Field Name="o_Etudiant" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TDGE.Etudiant">
+    <Position X="7.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAABEAgAAEABAAEAAAACgAABAAACAAAAAAgAA=</HashCode>
+      <FileName>Etudiant.vb</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="o_SesNotes" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

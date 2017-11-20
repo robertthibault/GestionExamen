@@ -1,0 +1,44 @@
+E:\BTS SIO\SLAM2\TDWINgestExam\TDWINgestExam\bin\Debug\TDWINgestExam.exe.config
+E:\BTS SIO\SLAM2\TDWINgestExam\TDWINgestExam\obj\Debug\TDWINgestExam.vbprojResolveAssemblyReference.cache
+E:\BTS SIO\SLAM2\TDWINgestExam\TDWINgestExam\obj\Debug\TDGE.Form1.resources
+E:\BTS SIO\SLAM2\TDWINgestExam\TDWINgestExam\obj\Debug\TDGE.Resources.resources
+E:\BTS SIO\SLAM2\TDWINgestExam\TDWINgestExam\obj\Debug\TDWINgestExam.vbproj.GenerateResource.Cache
+E:\BTS SIO\SLAM2\TDWINgestExam\TDWINgestExam\bin\Debug\TDWINgestExam.exe
+E:\BTS SIO\SLAM2\TDWINgestExam\TDWINgestExam\bin\Debug\TDWINgestExam.pdb
+E:\BTS SIO\SLAM2\TDWINgestExam\TDWINgestExam\bin\Debug\TDWINgestExam.xml
+E:\BTS SIO\SLAM2\TDWINgestExam\TDWINgestExam\bin\Debug\TDdllge.dll
+E:\BTS SIO\SLAM2\TDWINgestExam\TDWINgestExam\bin\Debug\TDdllge.pdb
+E:\BTS SIO\SLAM2\TDWINgestExam\TDWINgestExam\bin\Debug\TDdllge.xml
+E:\BTS SIO\SLAM2\TDWINgestExam\TDWINgestExam\obj\Debug\TDWINgestExam.exe
+E:\BTS SIO\SLAM2\TDWINgestExam\TDWINgestExam\obj\Debug\TDWINgestExam.xml
+E:\BTS SIO\SLAM2\TDWINgestExam\TDWINgestExam\obj\Debug\TDWINgestExam.pdb
+D:\BTS SIO\SLAM2\TDWINgestExam\TDWINgestExam\bin\Debug\TDWINgestExam.exe.config
+D:\BTS SIO\SLAM2\TDWINgestExam\TDWINgestExam\obj\Debug\TDWINgestExam.exe
+D:\BTS SIO\SLAM2\TDWINgestExam\TDWINgestExam\obj\Debug\TDWINgestExam.xml
+D:\BTS SIO\SLAM2\TDWINgestExam\TDWINgestExam\obj\Debug\TDWINgestExam.pdb
+D:\BTS SIO\SLAM2\TDWINgestExam\TDWINgestExam\bin\Debug\TDWINgestExam.exe
+D:\BTS SIO\SLAM2\TDWINgestExam\TDWINgestExam\bin\Debug\TDWINgestExam.pdb
+D:\BTS SIO\SLAM2\TDWINgestExam\TDWINgestExam\bin\Debug\TDWINgestExam.xml
+D:\BTS SIO\SLAM2\TDWINgestExam\TDWINgestExam\bin\Debug\TDdllge.dll
+D:\BTS SIO\SLAM2\TDWINgestExam\TDWINgestExam\bin\Debug\TDdllge.pdb
+D:\BTS SIO\SLAM2\TDWINgestExam\TDWINgestExam\bin\Debug\TDdllge.xml
+D:\BTS SIO\SLAM2\TDWINgestExam\TDWINgestExam\obj\Debug\TDWINgestExam.vbprojResolveAssemblyReference.cache
+D:\BTS SIO\SLAM2\TDWINgestExam\TDWINgestExam\obj\Debug\TDGE.Form1.resources
+D:\BTS SIO\SLAM2\TDWINgestExam\TDWINgestExam\obj\Debug\TDGE.Resources.resources
+D:\BTS SIO\SLAM2\TDWINgestExam\TDWINgestExam\obj\Debug\TDWINgestExam.vbproj.GenerateResource.Cache
+E:\BTS SIO\SLAM2\TDWINgestExam\TDWINgestExam\obj\Debug\TDGE.Form2.resources
+D:\BTS SIO\Premiere annee\SLAM2\TDWINgestExam\TDWINgestExam\bin\Debug\TDWINgestExam.exe.config
+D:\BTS SIO\Premiere annee\SLAM2\TDWINgestExam\TDWINgestExam\bin\Debug\TDWINgestExam.exe
+D:\BTS SIO\Premiere annee\SLAM2\TDWINgestExam\TDWINgestExam\bin\Debug\TDWINgestExam.pdb
+D:\BTS SIO\Premiere annee\SLAM2\TDWINgestExam\TDWINgestExam\bin\Debug\TDWINgestExam.xml
+D:\BTS SIO\Premiere annee\SLAM2\TDWINgestExam\TDWINgestExam\bin\Debug\TDdllge.dll
+D:\BTS SIO\Premiere annee\SLAM2\TDWINgestExam\TDWINgestExam\bin\Debug\TDdllge.pdb
+D:\BTS SIO\Premiere annee\SLAM2\TDWINgestExam\TDWINgestExam\bin\Debug\TDdllge.xml
+D:\BTS SIO\Premiere annee\SLAM2\TDWINgestExam\TDWINgestExam\obj\Debug\TDWINgestExam.vbprojResolveAssemblyReference.cache
+D:\BTS SIO\Premiere annee\SLAM2\TDWINgestExam\TDWINgestExam\obj\Debug\TDGE.Form1.resources
+D:\BTS SIO\Premiere annee\SLAM2\TDWINgestExam\TDWINgestExam\obj\Debug\TDGE.Form2.resources
+D:\BTS SIO\Premiere annee\SLAM2\TDWINgestExam\TDWINgestExam\obj\Debug\TDGE.Resources.resources
+D:\BTS SIO\Premiere annee\SLAM2\TDWINgestExam\TDWINgestExam\obj\Debug\TDWINgestExam.vbproj.GenerateResource.Cache
+D:\BTS SIO\Premiere annee\SLAM2\TDWINgestExam\TDWINgestExam\obj\Debug\TDWINgestExam.exe
+D:\BTS SIO\Premiere annee\SLAM2\TDWINgestExam\TDWINgestExam\obj\Debug\TDWINgestExam.xml
+D:\BTS SIO\Premiere annee\SLAM2\TDWINgestExam\TDWINgestExam\obj\Debug\TDWINgestExam.pdb

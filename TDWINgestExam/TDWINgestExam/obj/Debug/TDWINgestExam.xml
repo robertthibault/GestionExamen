@@ -1,0 +1,81 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TDWINgestExam
+</name>
+</assembly>
+<members>
+<member name="T:TDGE.My.Resources.Resources">
+<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+<member name="P:TDGE.My.Resources.Resources.ResourceManager">
+<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member>
+<member name="P:TDGE.My.Resources.Resources.Culture">
+<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member>
+<member name="M:TDGE.Form1.RemplirMatieres">
+ <summary>
+ Remplir la liste des matières
+ </summary>
+</member>
+<member name="M:TDGE.Form1.RemplirEleves">
+ <summary>
+ Remplir la liste de étudiants
+ </summary>
+</member>
+<member name="M:TDGE.Form1.RemplirNotes(TDGE.Etudiant)">
+ <summary>
+ Remplir les notes
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:TDGE.Form2.RemplirLesResultatsDynamiquement">
+ <summary>
+ Permet de remplir le panel des résultats
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:TDGE.Form2.cbxEpreuveFacultative_SelectedIndexChanged(System.Object,System.EventArgs)">
+ <summary>
+ Permet de créer les labels et TextBox correspondant à la matière falcultative sélectionnée
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:TDGE.Form2.btnAbondon_Click(System.Object,System.EventArgs)">
+ <summary>
+ Permet d'annuler la modification ou l'ajout d'un étudiant
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:TDGE.Form2.btnEnreg_Click(System.Object,System.EventArgs)">
+ <summary>
+ Permet d'enregister les modifications ou d'enregistrer un nouvel élève 
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:TDGE.Form2.Form2_Load(System.Object,System.EventArgs)">
+ <summary>
+ exécuté quandle form est chargé
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+</members>
+</doc>
